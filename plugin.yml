@@ -1,0 +1,6 @@
+name: GcAutoAnuncio
+author: Gcunha
+version: 1.0
+main: gc.autoanuncio.AutoAnuncio
+commands:
+  gcaa:
